@@ -12,7 +12,7 @@ Switch to the softwareyou.{se|com} repository.
 1. `git reset --hard origin\gh-pages`
 1. `python l10n.py {sv_SE|en_US}`
 1. `git commit -m "l10n {sv_SE|en_US}"`
-1. `git push`
+1. `git push --force`
 
 Prerequisite:
 
