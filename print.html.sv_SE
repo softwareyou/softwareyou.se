@@ -3,16 +3,7 @@ description=Skräddarsydd programvara för smarttelefoner, surfplattor, smarta k
 contact=Ring, mejla, eller besök oss på vårt kontor för kostnadsfri rådgivning.
 
 phone.text=0705904720
-phone.link=tel:0705904720
 email.text=skovde@softwareyou.se
-email.link=mailto:webb@softwareyou.se
 address.text=Gothia Science Park, Kaplansgatan 16C, 541 34 Skövde
-address.link=https://www.google.se/maps/place/Software+%26+You+AB/@58.3943028,13.8590823,17z/data=!3m1!4b1!4m2!3m1!1s0x465b022df889c31d:0x4497311dccacdd29
 
-twitter.link=http://twitter.com/softwareyou
-github.link=http://github.com/danieloskarsson
-linkedin.link=http://linkedin.com/in/danieloskarsson
-
-softwareyou.link=http://softwareyou.com
 post.address.text=Box 133, 541 23 Skövde
-post.address.link=http://gsp.se/sv/foretagen/softwareyou
