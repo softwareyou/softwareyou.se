@@ -1,0 +1,35 @@
+
+/* Button */
+
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+/* Banner */
+
+	#banner {
+		width: 35%;
+	}
+
+		#banner ul:after {
+			display: none;
+		}
+
+		#banner .content:before {
+			background-color: #e6e8eb;
+		}
+
+		#banner .content:after {
+			background-color: #e6e8eb;
+		}
+
+/* Wrapper */
+
+	#wrapper {
+		left: 35%;
+	}
