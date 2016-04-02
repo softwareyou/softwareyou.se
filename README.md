@@ -1,20 +1,18 @@
-Software & You Website
+softwareyou.{se|com}
+====================
 
-This is the template for the Software & You website.
-It contains all resources required to build softwareyou.{se|com}.
+This is the template for softwareyou.{se|com}.
+The site is translated using l10n.py.
 
-Instructions:
+Instructions
+------------
 
 Make changes in this repository and push to remote.
 Switch to the softwareyou.{se|com} repository.
 
-1. `git fetch --all`
-1. `git reset --hard origin\gh-pages`
-1. `python l10n.py {sv_SE|en_US}`
-1. `git commit -m "l10n {sv_SE|en_US}"`
-1. `git push --force`
+Run `./publish.sh sv SE` or `./publish.sh en US`
 
-Prerequisite:
+Prerequisites:
 
 ```
 $ git remote -v
