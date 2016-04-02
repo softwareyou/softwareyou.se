@@ -25,7 +25,7 @@ for l10n_path in glob.glob('**/*.' + argv[1], recursive=True):
                 for line in l10n_file.readlines():
                     values = line.strip().split('=', maxsplit=1)
                     if len(values) == 2:
-                        text = text.replace("{%s}" % values[0], values[1])
+                        text = text.replace("{{%s}}" % values[0], values[1])
             file.seek(0)
             file.write(text)
             file.truncate()
