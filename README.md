@@ -1,7 +1,7 @@
 Software & You Website
 
 This is the template for the Software & You website.
-It contains all resources required to build softwareyou.se and softwareyou.com.
+It contains all resources required to build softwareyou.{se|com}.
 
 Instructions:
 
@@ -19,5 +19,5 @@ Prerequisite:
 ```
 $ git remote -v
 origin  git@github.com:softwareyou/softwareyou.git (fetch)
-origin  git@github.com:softwareyou/softwareyou.com.git (push)
+origin  git@github.com:softwareyou/softwareyou.{se|com}.git (push)
 ```
