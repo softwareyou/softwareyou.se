@@ -6,7 +6,7 @@
 	"email.text": "{{email.text}}",
 	"address.text": "{{address.text}}",
 	"phone.link": "{{phone.link}}",
-	"email.link": "{{email.linkl}}",
+	"email.link": "{{email.link}}",
 	"address.link": "{{address.link}}",
 	"twitter.link": "{{twitter.link}}",
 	"github.link": "{{github.link}}",
