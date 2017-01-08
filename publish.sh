@@ -11,9 +11,6 @@ else
 	exit
 fi
 
-echo $suffix
-exit
-
 git fetch --all
 git reset --hard origin/gh-pages
 echo "www.softwareyou.$suffix" > CNAME
