@@ -10,7 +10,7 @@ Instructions
 Make changes in this repository and push to remote.
 Switch to the softwareyou.{se|com} repository.
 
-Run `./publish.sh sv SE` or `./publish.sh en US`
+Run `./publish.sh se sv_SE` or `./publish.sh com en_US`
 
 Prerequisites:
 
