@@ -10,7 +10,7 @@ Instructions
 Make changes in this repository and push to remote.
 Switch to the softwareyou.{se|com} repository.
 
-Run `sh publish.sh se sv_SE` or `sh publish.sh com en_US`
+Run `sh publish.sh` to publish to Github.
 
 Prerequisites:
 
@@ -18,4 +18,11 @@ Prerequisites:
 $ git remote -v
 origin  git@github.com:softwareyou/softwareyou.git (fetch)
 origin  git@github.com:softwareyou/softwareyou.{se|com}.git (push)
+```
+
+To change remote do:
+
+```
+git remote set-url origin git@github.com:softwareyou/softwareyou
+git remote set-url --push origin git@github.com:softwareyou/softwareyou.{se|com}
 ```
