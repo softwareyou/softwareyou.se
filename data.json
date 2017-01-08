@@ -11,5 +11,6 @@
 	"twitter.link": "{{twitter.link}}",
 	"github.link": "{{github.link}}",
 	"linkedin.link": "{{linkedin.link}}",
-	"post.address.link": "{{post.adress.link}}"
+	"post.address.link": "{{post.adress.link}}",
+	"post.address.text": "{{post.adress.text}}"
 }
