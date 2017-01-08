@@ -1,0 +1,15 @@
+{
+	"title": "{{title}}",
+	"description": "{{description}}",
+	"contact": "{{contact}}",
+	"phone.text": "{{phone.text}}",
+	"email.text": "{{email.text}}",
+	"address.text": "{{address.text}}",
+	"phone.link": "{{phone.link}}",
+	"email.link": "{{email.linkl}}",
+	"address.link": "{{address.link}}",
+	"twitter.link": "{{twitter.link}}",
+	"github.link": "{{github.link}}",
+	"linkedin.link": "{{linkedin.link}}",
+	"post.address.link": "{{post.adress.link}}"
+}
